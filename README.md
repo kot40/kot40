@@ -1,7 +1,5 @@
 # Roman Zelenin
 
----
-
 Full-Stack PHP Developer building backend systems,
 payment integrations, and distributed services.
 
